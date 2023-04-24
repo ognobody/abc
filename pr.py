@@ -1,4 +1,4 @@
-1=int(input("enter the frist number"))
+n1=int(input("enter the frist number"))
 n2=float(input("enter the second number"))
 n3=input("enter third value")
 n4=10+2j
